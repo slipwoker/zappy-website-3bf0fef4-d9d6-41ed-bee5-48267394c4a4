@@ -1,43 +1,53 @@
-# Business — Generative Engine Optimization Map
+# בית חב״ד דרמסאלה — Generative Engine Optimization Map
+
+> A תיירות רוחנית ודתית business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://chabad-house-dharamshala.zappy5.app
 
 ### מתווה שבוע הנסיגה
-https://example.com/retreats
+https://chabad-house-dharamshala.zappy5.app/retreats
 
 ### אודות
-https://example.com/about
+https://chabad-house-dharamshala.zappy5.app/about
 
 ### צור קשר
-https://example.com/contact
+https://chabad-house-dharamshala.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://chabad-house-dharamshala.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://chabad-house-dharamshala.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://chabad-house-dharamshala.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About בית חב״ד דרמסאלה
+בית חב״ד דרמסאלה is a business in the תיירות רוחנית ודתית industry.
+
+## Target Audience
+מטיילים ישראלים בהודו המחפשים חוויה רוחנית
+
+## Industry
+תיירות רוחנית ודתית
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://chabad-house-dharamshala.zappy5.app/sitemap.xml
+- **Robots.txt**: https://chabad-house-dharamshala.zappy5.app/robots.txt
